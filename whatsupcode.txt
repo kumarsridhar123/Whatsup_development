@@ -11,3 +11,7 @@ Author : Sridharan Kumaravelu
 4.Attachments (Image. Audio ,video) code
 
 5.Hiding the last seen implemented
+
+6.Add audio call features
+
+7.Add video call features
