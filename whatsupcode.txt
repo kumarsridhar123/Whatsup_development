@@ -1,0 +1,11 @@
+ 		This is whatsup code
+
+Author : Sridharan Kumaravelu
+
+1.Profile page code
+
+2.Chat Screen code
+
+3.Last Screen code
+
+4.Attachments (Image. Audio ,video) code
