@@ -9,3 +9,5 @@ Author : Sridharan Kumaravelu
 3.Last Screen code
 
 4.Attachments (Image. Audio ,video) code
+
+5.Hiding the last seen implemented
