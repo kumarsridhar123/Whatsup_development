@@ -15,3 +15,5 @@ Author : Sridharan Kumaravelu
 6.Add audio call features
 
 7.Add video call features
+8.Adding status so that user can play train game
+
