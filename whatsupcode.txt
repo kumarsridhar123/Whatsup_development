@@ -1,19 +1,11 @@
- 		This is whatsup code
+ 		public class jenkins {
 
-Author : Sridharan Kumaravelu
+ public static void main(String[] args) {
+  // TODO Auto-generated method stub
+    System.out.println("Hello sri");
+    System.out.println("Hello roh");
+    System.out.println("Hello vid");
+    System.out.println("Hello neer");
+ }
 
-1.Profile page code
-
-2.Chat Screen code
-
-3.Last Screen code
-
-4.Attachments (Image. Audio ,video,document) code
-
-5.Hiding the last seen implemented
-
-6.Add audio call features
-
-7.Add video call features
-8.Adding status so that user can play train game
-
+}
